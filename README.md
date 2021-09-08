@@ -7,6 +7,6 @@ Todos os candidatos a prefeito são obrigados a registrar as suas propostas.
 
 Exemplo:
 
-* Prefeito Colbert Martins (Feira de Santana/BA) - 2020~2023
+* Prefeito Colbert Martins (Feira de Santana/BA) - 2021~2024
   * [Página do candidato](https://divulgacandcontas.tse.jus.br/divulga/#/candidato/2020/2030402020/35157/50000732481)
   * [Arquivo de propostas](https://divulgacandcontas.tse.jus.br/candidaturas/oficial/2020/BA/35157/426/candidatos/470365/5_1600628196896.pdf)
