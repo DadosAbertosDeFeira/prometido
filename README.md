@@ -2,7 +2,7 @@
 
 Promessa é dívida. Vamos acompanhar o que foi prometido na campanha.
 
-As propostas são retiradas do site [Divulgação de Candidaturas]() do Tribunal Superior Eleitoral.
+As propostas são retiradas do site [Divulgação de Candidaturas](https://divulgacandcontas.tse.jus.br/) do Tribunal Superior Eleitoral.
 Todos os candidatos a prefeito são obrigados a registrar as suas propostas.
 
 Exemplo:
